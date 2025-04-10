@@ -1,4 +1,4 @@
-<h1 align="center">Hare Krishna , I'm Tanishq Aswar</h1>
+<h1 align="center">Hare Krishna 🙏, I'm Tanishq Aswar</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 - 🔭 I’m currently working on [CrowdInfra](https://github.com/TanishqAswar/CrowdInfra)
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [portfolio.app](portfolio.app)
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MongoDB, ExpressJS, ReactJS, NodeJS, NextJS**
 
 - 📫 How to reach me **tanishqaswar2005@gmail.com**
 
