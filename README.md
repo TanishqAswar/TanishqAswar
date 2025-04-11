@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/736x/83/b8/43/83b84364573e240cebb9859060b53c62.jpg" alt="MasterHead" width="1000" height="300"/>
+<img src="https://i.pinimg.com/736x/83/b8/43/83b84364573e240cebb9859060b53c62.jpg" alt="MasterHead" width="1050" height="200"/>
 
 <h1 align="center">Hare Krishna 🙏, I'm Tanishq Aswar</h1>
 <h3 align="center">A passionate developer from India</h3>
