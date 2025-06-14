@@ -1,13 +1,15 @@
 # Hare Krishna, I'm Tanishq Aswar
 
+
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer;DSA+Problem+Solver)
   
-  <img src="https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" width="500" height="320" marginTop="50"/>
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=FF6B35&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer;DSA+Problem+Solver)
+  
+  <img src="https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" width="500" height="320" marginTop="40" marginBottom="20"/>
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://tanishq-portfolio-git-main-tanishq-aswars-projects.vercel.app/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanishq%20aswar)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishqaswar/)
   [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanishqaswar2005@gmail.com)
   [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/tanishq_coder)
   [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/tanishq_aswar)
@@ -21,7 +23,7 @@
 ```javascript
 const tanishq = {
     location: "India 🇮🇳",
-    currentFocus: "Learning DSA and Building Scalable Web Applications",
+    currentFocus: "Learning DSA && Building scalable web applications",
     currentlyLearning: ["Data Structures & Algorithms", "System Design"],
     currentProject: "CrowdInfra - Revolutionizing infrastructure management",
     lifePhilosophy: "Just do everything for the pleasure of Krishna 🕉️",
@@ -69,17 +71,41 @@ const tanishq = {
 
 ---
 
-## 🌟 Featured Project
+## 🌟 Featured Projects
 
 <div align="center">
-  
+
+<table>
+<tr>
+<td width="50%">
+
 ### 🏗️ CrowdInfra
 *Revolutionizing Infrastructure Management Through Crowdsourcing*
 
 [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TanishqAswar/CrowdInfra)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-FF4081?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
-🚀 **Built with:** MERN Stack | 🎯 **Status:** In Development | ⭐ **Impact:** Community-Driven Solutions
+🚀 **Built with:** MERN Stack  
+🎯 **Status:** In Development  
+⭐ **Impact:** Community-Driven Solutions
+
+</td>
+<td width="50%">
+
+### 🐧 Block Penguin
+*Web3 Arcade Game with NFT Integration*
+
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TanishqAswar/Block-Penguin-mySpace)
+[![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)](#)
+[![Blockchain](https://img.shields.io/badge/Thirdweb-7C3AED?style=for-the-badge&logo=ethereum&logoColor=white)](https://thirdweb.com/)
+
+🎮 **Built with:** Unity, C#, ThirdWeb  
+🎯 **Status:** In Development  
+⭐ **Features:** NFT Marketplace, Mini-games
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -178,7 +204,7 @@ HTML         0 hrs 42 mins   █░░░░░░░░░░░░░░░░
   
   [![Email](https://img.shields.io/badge/tanishqaswar2005@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanishqaswar2005@gmail.com)
   
-  [![Portfolio](https://img.shields.io/badge/Check_out_my_Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://tanishq-portfolio-git-main-tanishq-aswars-projects.vercel.app/)
+  [![Portfolio](https://img.shields.io/badge/Check_out_my_Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](portfolio.app)
   
   ---
   
