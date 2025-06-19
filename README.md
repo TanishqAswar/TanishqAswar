@@ -204,7 +204,7 @@ HTML         0 hrs 42 mins   █░░░░░░░░░░░░░░░░
   
   [![Email](https://img.shields.io/badge/tanishqaswar2005@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanishqaswar2005@gmail.com)
   
-  [![Portfolio](https://img.shields.io/badge/Check_out_my_Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](portfolio.app)
+  [![Portfolio](https://img.shields.io/badge/Check_out_my_Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://tanishq-portfolio-git-main-tanishq-aswars-projects.vercel.app/)
   
   ---
   
