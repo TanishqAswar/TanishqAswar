@@ -25,7 +25,7 @@ const tanishq = {
     location: "India 🇮🇳",
     currentFocus: "Learning DSA && Building scalable web applications",
     currentlyLearning: ["Data Structures & Algorithms", "System Design"],
-    currentProject: "CrowdInfra - Revolutionizing infrastructure management",
+    currentProject: "LeetVSCode - Bridging Leetcode to VS Code",
     lifePhilosophy: "Just do everything for the pleasure of Krishna 🕉️",
     techStack: {
         frontend: ["React", "Next.js", "HTML5", "CSS3", "Bootstrap"],
