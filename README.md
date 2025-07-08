@@ -75,9 +75,11 @@ const tanishq = {
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
+## 🚀 Featured Projects
+
+</div>
+
+---
 
 ### 🏗️ CrowdInfra
 *Revolutionizing Infrastructure Management Through Crowdsourcing*
@@ -89,8 +91,7 @@ const tanishq = {
 🎯 **Status:** In Development  
 ⭐ **Impact:** Community-Driven Solutions
 
-</td>
-<td width="50%">
+---
 
 ### 🐧 Block Penguin
 *Web3 Arcade Game with NFT Integration*
@@ -103,14 +104,19 @@ const tanishq = {
 🎯 **Status:** In Development  
 ⭐ **Features:** NFT Marketplace, Mini-games
 
-</td>
-</tr>
-</table>
-
-</div>
-
 ---
 
+### 💻 LeetVSCode
+*Browser Extension for Seamless Coding Practice*
+
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TanishqAswar/LeetVSCode)
+[![Extension](https://img.shields.io/badge/Browser_Extension-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+
+🔧 **Built with:** JavaScript, Browser APIs  
+🎯 **Status:** Active Development  
+⭐ **Features:** Multi-platform Support, Local Testing
+
+---
 ## 📊 GitHub Analytics
 
 <div align="center">
