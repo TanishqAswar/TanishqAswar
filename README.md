@@ -67,6 +67,10 @@ const tanishq = {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
+
+### Github Trophies
+![](https://github-profile-trophy.vercel.app/?username=TanishqAswar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 </div>
 
 ---
