@@ -68,9 +68,6 @@ const tanishq = {
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 
-### Github Trophies
-![](https://github-profile-trophy.vercel.app/?username=TanishqAswar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 </div>
 
 ---
@@ -169,6 +166,16 @@ const tanishq = {
   ![Learning](https://img.shields.io/badge/DSA-In_Progress-FF6B35?style=for-the-badge)
   ![Learning](https://img.shields.io/badge/System_Design-Learning-4CAF50?style=for-the-badge)
   ![Learning](https://img.shields.io/badge/Advanced_React-Exploring-61DAFB?style=for-the-badge)
+  
+</div>
+
+---
+
+## 🏆 Github Trophies
+
+<div align="center">
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=TanishqAswar&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Tanishq's GitHub Trophies" />
   
 </div>
 
