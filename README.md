@@ -74,12 +74,6 @@ const tanishq = {
 
 ## 🌟 Featured Projects
 
-<div align="center">
-
-## 🚀 Featured Projects
-
-</div>
-
 ---
 
 ### 🏗️ CrowdInfra
