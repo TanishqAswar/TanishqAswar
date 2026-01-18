@@ -6,7 +6,7 @@
   
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=FF6B35&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer;DSA+Problem+Solver)
   
-  <img src="https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" width="500" height="320" marginTop="40" marginBottom="20"/>
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500" height="320" style="margin-top: 40px; margin-bottom: 20px;"/>
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://tanishq-portfolio-git-main-tanishq-aswars-projects.vercel.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishqaswar/)
@@ -165,14 +165,13 @@ const tanishq = {
 
 ---
 
-## 🏆 Github Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=TanishqAswar&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Tanishq's GitHub Trophies" />
-  
-</div>
 
+![Trophies](https://github-trophies.vercel.app/?username=tanishqaswar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+</div>
 ---
 
 ## 🎨 Fun Zone
